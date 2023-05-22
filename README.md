@@ -11,8 +11,8 @@ The project utilizes the following technologies:
 - Responsive Design: The landing page is designed to be fully responsive, ensuring optimal viewing and interaction across various devices and screen sizes.
 - BEM: BEM (Block, Element, Modifier) methodology for organizing and naming CSS classes. By adopting BEM, the project ensures consistency and clarity in the styling implementation.
 
-## [DEMO](https://nazariialieksieiev.github.io/MyBike__landing/)
-## [Figma Mockup](https://github.com/NazariiAlieksieiev/MyBike__landing)
+## [DEMO](hhttps://nazariialieksieiev.github.io/my_bike_landing/)
+## [Figma Mockup](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?type=design&node-id=0-1&t=gr6dArlJIKrrRwSi-0)
 
 ## Key Features
 - Intuitive Bike Adaptation: The landing page showcases the concept of an adaptive bike that intuitively adjusts its power to match the desired speed of the rider.
